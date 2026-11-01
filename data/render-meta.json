@@ -1,0 +1,39 @@
+{
+ "site_id": "xinwei",
+ "name": "星维（图归属待确认）",
+ "image": "images/speedtests/xinwei.png",
+ "attribution": "按星维h2下的图结构暂配；HTML alt/图注错误标成云帆，图内未直接识别到品牌，不能最终确认测速归属",
+ "attribution_status": "provisional_page_section_conflicting_caption",
+ "test_time_as_printed": "2026-09-08T22:48:55 (+08)",
+ "test_date": "2026-09-08",
+ "report_type": "download_speed_and_latency",
+ "has_download_throughput": true,
+ "backend_as_read": "华东-杭州移动 2G",
+ "tool_as_read": "海豚测速；版本1.11.5，后端4.7.2",
+ "threads": 1,
+ "traffic_used_gb": "3.8",
+ "duration_seconds": 160,
+ "ping_count": 10,
+ "table_rows": 20,
+ "metrics_present": [
+  "TLS RTT",
+  "RTT标准差",
+  "HTTPS延迟",
+  "平均速度",
+  "最大速度",
+  "每秒速度图",
+  "UDP类型"
+ ],
+ "example": {
+  "node": "日本高速02|BGP",
+  "tls_rtt_ms": 108,
+  "https_latency_ms": 514,
+  "average_speed_raw": "91.14MB",
+  "peak_speed_raw": "133.72MB"
+ },
+ "caveats": [
+  "保留原图作为待确认参考，不能作为已经验明归属的星维测速。",
+  "只有20行美/日/新/韩样本，没有覆盖页面宣传的全部地区。",
+  "采集日期10-31不同于图上测试日期9-7。"
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "site": "xinwei",
+ "name": "星维",
+ "rows": [
+  {
+   "name": "(未识别)",
+   "type": "VLESS",
+   "delay_ms": 195,
+   "https_ms": 840,
+   "avg_mb": 43.6,
+   "peak_mb": 94.5,
+   "raw": "一 | 美国高速 08| 三网优化 | VLESS | 195ms | 9.5 | 840ms | 43.60MB | 94.51MB | Unknown"
+  },
+  {
+   "name": "美国高速11 三网优化",
+   "type": "VLESS",
+   "delay_ms": 204,
+   "https_ms": 856,
+   "avg_mb": 35.4,
+   "peak_mb": 86.4,
+   "raw": "2 | 美国高速101 三网优化 | VLESS | 204ms | 93.9 | 856ms | 35.42MB | 86.39MB | Unknown"
+  },
+  {
+   "name": "日本高速 2",
+   "type": "VLESS",
+   "delay_ms": 108,
+   "https_ms": 514,
+   "avg_mb": 91.1,
+   "peak_mb": 133.7,
+   "raw": "3 | 日本高速 02| BGP | VLESS | 108ms | 98.2 | 514ms | 91.14MB | 133.72MB | Unknown"
+  },
+  {
+   "name": "日本高速 4 BGP",
+   "type": "VLESS",
+   "delay_ms": 173,
+   "https_ms": 850,
+   "avg_mb": 101.0,
+   "peak_mb": null,
+   "raw": "4 | 日本高速 04 BGP | VLESS | 173ms | 162.2 | 850ms | 7124ME | 101.02MB | Unknown"
+  },
+  {
+   "name": "日本高速 6 BGP",
+   "type": "VLESS",
+   "delay_ms": 78,
+   "https_ms": 618,
+   "avg_mb": 56.5,
+   "peak_mb": 91.1,
+   "raw": "5 | 日本高速 06 BGP | VLESS | 78ms | 4.1 | 618ms | 56.55MB | 91.06MB | Unknown"
+  },
+  {
+   "name": "日本高速 8",
+   "type": "VLESS",
+   "delay_ms": 141,
+   "https_ms": 750,
+   "avg_mb": 13.2,
+   "peak_mb": 21.4,
+   "raw": "6 | 日本高速 08| 三网优化 | VLESS | 141ms | 90.3 | 750ms | 13.23MB | 21.40MB | Unknown"
+  },
+  {
+   "name": "日本高速 11 三网优化",
+   "type": "VLESS",
+   "delay_ms": 122,
+   "https_ms": 663,
+   "avg_mb": 13.2,
+   "peak_mb": 20.5,
+   "raw": "7 | 日本高速 101 三网优化 | VLESS | 122ms | 30.6 | 663ms | 13.22MB | 20.51MB | Unknown"
+  },
+  {
+   "name": "日本高速12",
+   "type": "VLESS",
+   "delay_ms": 78,
+   "https_ms": 533,
+   "avg_mb": 6.0,
+   "peak_mb": 9.1,
+   "raw": "8 | 日本高速12| BGP | VLESS | 78ms | 7.3 | 533ms | 5.96MB | 9.11MB | Unknown"
+  },
+  {
+   "name": "日本高速 14",
+   "type": "VLESS",
+   "delay_ms": 126,
+   "https_ms": 601,
+   "avg_mb": 39.1,
+   "peak_mb": 75.0,
+   "raw": "9 | 日本高速 14| BGP | VLESS | 126ms | 101.3 | 601ms | 39.15MB | 74.95MB | Unknown"
+  },
+  {
+   "name": "日本高速 16",
+   "type": "VLESS",
+   "delay_ms": 82,
+   "https_ms": 502,
+   "avg_mb": 46.0,
+   "peak_mb": 65.3,
+   "raw": "10 | 日本高速 16| BGP | VLESS | 82ms | 73.6 | 502ms | 45.98MB | 65.32MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 2",
+   "type": "VLESS",
+   "delay_ms": 91,
+   "https_ms": 442,
+   "avg_mb": 18.9,
+   "peak_mb": 35.3,
+   "raw": "11 | 新加坡高速 02| BGP | VLESS | 91ms | 1 | 442ms | 18.90MB | 35.27MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 4 BGP",
+   "type": "VLESS",
+   "delay_ms": 92,
+   "https_ms": 597,
+   "avg_mb": 10.3,
+   "peak_mb": 20.1,
+   "raw": "12 | 新加坡高速 04 BGP | VLESS | 92ms | 1.4 | 597ms | 10.33MB | 20.10MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 6l BGP",
+   "type": "VLESS",
+   "delay_ms": 92,
+   "https_ms": 595,
+   "avg_mb": 34.2,
+   "peak_mb": 57.9,
+   "raw": "13 | 新加坡高速 06l BGP | VLESS | 92ms | 2.7 | 595ms | 34.24MB | 57.90MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 8I BGP",
+   "type": "VLESS",
+   "delay_ms": 92,
+   "https_ms": 460,
+   "avg_mb": 20.4,
+   "peak_mb": 32.1,
+   "raw": "14 | 新加坡高速 08I BGP | VLESS | 92ms | 1.7 | 460ms | 20.42MB | 32.06MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 1",
+   "type": "VLESS",
+   "delay_ms": 93,
+   "https_ms": 683,
+   "avg_mb": 24.4,
+   "peak_mb": 43.9,
+   "raw": "15 | 新加坡高速 10| BGP | VLESS | 93ms | 100.6 | 683ms | 24.38MB | 43.89MB | Unknown"
+  },
+  {
+   "name": "新加坡高速 12I BGP",
+   "type": "VLESS",
+   "delay_ms": 131,
+   "https_ms": 531,
+   "avg_mb": 27.2,
+   "peak_mb": 48.4,
+   "raw": "16 | 新加坡高速 12I BGP | VLESS | 131ms | 124.8 | 531ms | 27.18MB | 48.40MB | Unknown"
+  },
+  {
+   "name": "韩国高速 2",
+   "type": "VLESS",
+   "delay_ms": 134,
+   "https_ms": 767,
+   "avg_mb": 88.7,
+   "peak_mb": 122.0,
+   "raw": "17 | 韩国高速 02| BGP | VLESS | 134ms | 189.4 | 767ms | 88.74MB | 122.04MB | Unknown"
+  },
+  {
+   "name": "韩国高速 4",
+   "type": "VLESS",
+   "delay_ms": 108,
+   "https_ms": 1010,
+   "avg_mb": 47.3,
+   "peak_mb": 73.4,
+   "raw": "18 | 韩国高速 04| BGP | VLESS | 108ms | 4.1 | 1010ms | 47.32MB | 73.36MB | Unknown"
+  },
+  {
+   "name": "韩国高速 6",
+   "type": "VLESS",
+   "delay_ms": 90,
+   "https_ms": 1164,
+   "avg_mb": 30.8,
+   "peak_mb": 59.5,
+   "raw": "19 | 韩国高速 06| BGP | VLESS | 90ms | 77 | 1164ms | 30.78MB | 59.54MB | Unknown"
+  },
+  {
+   "name": "韩国高速 8",
+   "type": "VLESS",
+   "delay_ms": 109,
+   "https_ms": 927,
+   "avg_mb": 47.4,
+   "peak_mb": 66.5,
+   "raw": "20 | 韩国高速 08| BGP | VLESS | 109ms | 84.4 | 927ms | 47.39MB | 66.55MB | Unknown"
+  }
+ ]
+}
